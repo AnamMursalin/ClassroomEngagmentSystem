@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/classroom_engagement_project/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 5
+names:
+- focused_head
+- head_down
+- mobile_phone
+- laptop
+- notebook_book
